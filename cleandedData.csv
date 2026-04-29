@@ -1,0 +1,9 @@
+Order ID,Customer Name,City,Product,Category,Quantity,Price,Order Date,Revenue
+1,Rahim,Ottawa,Laptop,Electronics,1,1200,2024-01-10,1200
+2,Karim,Toronto,Phone,Electronics,2,800,2024-01-12,1600
+3,Jui,Ottawa,Shoes,Fashion,3,100,2024-01-15,300
+4,Sara,Montreal,Laptop,Electronics,1,1100,2024-01-20,1100
+5,Rafi,Toronto,T-shirt,Fashion,5,50,2024-01-25,250
+6,Nila,Ottawa,Phone,Electronics,1,900,2024-02-01,900
+7,Hasan,Montreal,Shoes,Fashion,2,120,2024-02-05,240
+8,Mitu,Ottawa,Laptop,Electronics,1,1300,2024-02-10,1300
